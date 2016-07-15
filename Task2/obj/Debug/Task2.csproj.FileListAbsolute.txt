@@ -1,0 +1,6 @@
+C:\EPAM\Task_6_Strings\Task2\bin\Debug\Task2.exe.config
+C:\EPAM\Task_6_Strings\Task2\bin\Debug\Task2.exe
+C:\EPAM\Task_6_Strings\Task2\bin\Debug\Task2.pdb
+C:\EPAM\Task_6_Strings\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\EPAM\Task_6_Strings\Task2\obj\Debug\Task2.exe
+C:\EPAM\Task_6_Strings\Task2\obj\Debug\Task2.pdb

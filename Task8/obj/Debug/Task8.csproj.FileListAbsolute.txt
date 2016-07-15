@@ -1,0 +1,9 @@
+C:\EPAM\Task_6_Strings\Demin_Anton_Task6\Task8\bin\Debug\Task8.exe.config
+C:\EPAM\Task_6_Strings\Demin_Anton_Task6\Task8\bin\Debug\Task8.exe
+C:\EPAM\Task_6_Strings\Demin_Anton_Task6\Task8\bin\Debug\Task8.pdb
+C:\EPAM\Task_6_Strings\Demin_Anton_Task6\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+C:\EPAM\Task_6_Strings\Demin_Anton_Task6\Task8\obj\Debug\Task8.exe
+C:\EPAM\Task_6_Strings\Demin_Anton_Task6\Task8\obj\Debug\Task8.pdb
+C:\EPAM\Task_6_Strings\Demin_Anton_Strings\Task8\bin\Debug\Task8.exe.config
+C:\EPAM\Task_6_Strings\Demin_Anton_Strings\Task8\obj\Debug\Task8.exe
+C:\EPAM\Task_6_Strings\Demin_Anton_Strings\Task8\obj\Debug\Task8.pdb
